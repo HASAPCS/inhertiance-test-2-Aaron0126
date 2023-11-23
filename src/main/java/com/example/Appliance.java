@@ -20,7 +20,7 @@ public class Appliance {
     public String getModel(){
         return this.model;
     }
-    public int getpowerUsage(){
+    public int getPowerUsage(){
         return this.powerUsage;
     }
 
